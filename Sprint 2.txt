@@ -1,0 +1,7 @@
+ENLACE GIT HUB MICROSERVICIO CANDIDATOS, PARTIDO, MESAS Y REPORTES:
+https://github.com/EliDelgadoM/Proyecto-Ciclo-4-Grupo-1-28-CODE.git
+
+ENLACE GIT HUB MICROSERVICIO DE SEGURIDAD:
+https://github.com/EliDelgadoM/Proyecto-Ciclo-4-Grupo-1-28-CODE-Backend_Seguridad.git
+
+
