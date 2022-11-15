@@ -1,0 +1,5 @@
+LINK REPOSITORIO APIGATEWAY
+https://github.com/EliDelgadoM/Proyecto-Ciclo-4-Grupo-1-28-CODE-API-GATEWAY-.git (RAMA MASTER)
+
+LINK REPOSITORIO BACKEND DE SEGURIDAD
+https://github.com/EliDelgadoM/Proyecto-Ciclo-4-Grupo-1-28-CODE-Backend_Seguridad.git
